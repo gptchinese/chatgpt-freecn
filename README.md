@@ -1,4 +1,4 @@
-# ChatGPT 中文版免费使用指南（支持 GPT-4，无需翻墙） 【2024/12/22 更新】
+# ChatGPT 中文版免费使用指南（支持 GPT-4） 【2024/12/22 更新】
 
 > Update：2024/12/22 <br />
 > Author：gptchinese  
