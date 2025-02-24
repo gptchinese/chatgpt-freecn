@@ -1,6 +1,6 @@
- # ChatGPT 中文版免费使用指南（支持 GPT-4） 【2025/02/24 更新】
+ # ChatGPT 中文版免费使用指南（支持 GPT-4） 【2025/02/25 更新】
 
-> Update：2025/02/24  
+> Update：2025/02/25  
 > Author：gptchinese  
 
 **想使用免费 ChatGPT 中文版？无需翻墙，支持 ChatGPT-4，可无限次使用 GPT-4o 和 o1**
@@ -9,8 +9,8 @@
 
 ## 免费的 ChatGPT 中文版：
 
-- [www.yixiaai.com](https://www.yixiaai.com/) - **ChatGPT 中文版**，运营近两年，支持 3.5、4.0、GPT-4o和o1等ChatGPT模型，以及 AI 绘画，扫码即可使用。
-- [chat.lify.vip](https://chat.lify.vip/) - **ChatGPT 镜像网站**，运营近两年，支持 GPT4、4o、o1，提供 AI 文件、PPT、助手、插件和思维导图功能。
+- [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT 中文版**，运营近两年，支持 3.5、4.0、GPT-4o和o1等ChatGPT模型，以及 AI 绘画，扫码即可使用。
+- [chat.lify.vip](https://www.yixiaai.com/) - **ChatGPT 镜像网站**，运营近两年，支持 GPT4、4o、o1，提供 AI 文件、PPT、助手、插件和思维导图功能。
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **免费 ChatGPT**，运营一年多，支持 GPT4、4o，兼容 AI 绘画（Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，使用简便。
 - [yixiaai.cn](https://yixiaai.cn/) - **ChatGPT工具站**，支持各种AI工具，你想要的，这儿全有。
